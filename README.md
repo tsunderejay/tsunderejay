@@ -1,8 +1,8 @@
 # hello
 ### about me
-i like c++
-rust good game
-byebye
+- i like c++
+- rust good game
+- byebye
 
 ### my socials
 - [twitter](https://twitter.com/tsunderejay)
