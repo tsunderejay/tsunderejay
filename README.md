@@ -1,5 +1,6 @@
 ## about me
-- self taught programmer/computing engineer
+- self taught programmer and IT technician
+- experience in the field of HPC hardware (2 years)
 - game hacker (for fun not for advantage)
 
 ## programming
