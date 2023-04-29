@@ -4,9 +4,13 @@
 - currently a computer technician
 - game hacker (for fun not for advantage)
 
-## programming
-- java (basic)
+## experience
+### languages
 - rust (basic)
 - golang (basic)
 - c++/c (intermediate)
-- windows and linux (as both a desktop and server environment)
+- javascript (intermediate)
+
+### operating systems
+- windows (desktop and server)
+- linux (desktop and server)
