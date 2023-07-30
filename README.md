@@ -14,3 +14,5 @@
 ### operating systems
 - windows (desktop and server)
 - linux (desktop and server)
+
+![:7ay](https://count.ayaya.beauty/get/@:7ay)
