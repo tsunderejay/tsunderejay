@@ -4,12 +4,15 @@
 - currently a system administrator (education)
 - game hacker (for fun not for advantage)
 
+## what i want to learn
+- assembly
+- reverse engineering
+- microcontrollers
+
 ## experience
 ### languages
-- rust (basic)
-- golang (basic)
-- c++/c (intermediate)
-- javascript (intermediate)
+- powershell
+- c++/c
 
 ### operating systems
 - windows (desktop and server)
