@@ -15,7 +15,6 @@
 - c++/c
 
 ### operating systems
+#### currently running windows
 - windows (desktop and server)
-- linux (desktop and server)
-
-![:7ay](https://count.ayaya.beauty/get/@:7ay)
+- linux (nixos, debian, arch/void)
