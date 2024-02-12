@@ -5,9 +5,7 @@
 - game hacker (for fun not for advantage)
 
 ## what i want to learn
-- assembly
-- reverse engineering
-- microcontrollers
+- reverse engineering (+ assembly)
 
 ## experience
 ### languages
