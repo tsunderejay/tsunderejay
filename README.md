@@ -1,6 +1,6 @@
 <p align="center">
-  # hi, i'm jamie
-  ## i'm a programmer and systems engineer
+  <h1>hi, i'm jamie</h1>
+  <h2>i'm a programmer and systems engineer</h2>
 
   currently using and learning linux as a desktop.
 
