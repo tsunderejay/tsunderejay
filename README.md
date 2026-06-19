@@ -1,1 +1,1 @@
-web developer, mechanic, it engineer.
+programmer, mechanic, general idiot..
